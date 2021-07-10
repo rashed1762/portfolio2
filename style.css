@@ -1,0 +1,61 @@
+body{
+    font-family: 'Uchen', serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+h1{
+    font-size: 50px;
+}
+.primary{
+    color: rgb(179, 33, 33);
+}
+.top-banner{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+
+
+.half-width{
+    width:40%;
+    float: left;
+    padding-left: 65px;
+    margin-left: 30px;
+    }
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: brown;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 100;
+}
+.dream{
+    background-image: url("image/dream.png");
+    background-repeat: no-repeat;
+    background-position:right;
+    
+}
+.single{
+    box-shadow:10px 10px 50px gray ;
+    border-radius: 15px;
+    
+}
+.heder{
+    color: hotpink;
+    font-size: 40px;
+}
+.experians{
+    background-image: url("image/ex.png");
+    background-repeat: no-repeat;
+}
+
+
+
